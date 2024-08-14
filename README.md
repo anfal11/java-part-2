@@ -2,8 +2,6 @@
 
 # javaInputOutputExpression
 
-This repository contains examples of Java input/output operations, expressions, blocks, and conditional statements. The code snippets include detailed comments to help you understand how different Java concepts work.
-
 ## Java Input and Output
 
 The code in this section demonstrates various input and output operations in Java, including printing text, concatenating strings, and handling user input through the `Scanner` class.
